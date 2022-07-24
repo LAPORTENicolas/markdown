@@ -1,0 +1,14 @@
+#root {
+    display: flex;
+    flex-direction: column;
+}
+
+#root > * {
+    margin: 0 auto;
+}
+
+#preview {
+    margin: 0 20%;
+    padding: 1%;
+    border: 5px solid red;
+}
